@@ -1,0 +1,22 @@
+# Crowdin CLI / GitHub integration config.
+# Docs: https://support.crowdin.com/developer/configuration-file/
+#
+# Set these two as environment variables before running the CLI
+# (never commit them):
+#   CROWDIN_PROJECT_ID
+#   CROWDIN_PERSONAL_TOKEN
+# For Crowdin Enterprise also set the org base URL, or use --base-url.
+
+"project_id_env": "CROWDIN_PROJECT_ID"
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"
+# "base_url": "https://<your-org>.api.crowdin.com"   # Enterprise only
+"preserve_hierarchy": true
+
+files:
+  - source: /locales/en.json
+    translation: /locales/%two_letters_code%.json
+    type: json
+    # Tell Crowdin which keys are ICU messages so plurals are shown correctly
+    # to translators. (Comment this out on the first run to see what happens
+    # without it — that's one of the deliberate breaks.)
+    # content_segmentation: 0
