@@ -1,0 +1,10 @@
+{
+  "app.title": "Nordic Trails",
+  "nav.home": "Accueil",
+  "nav.about": "À propos",
+  "nav.contact": "Contact",
+  "home.title": "Trouvez votre prochain sentier",
+  "home.intro": "Des itinéraires de randonnée sélectionnés en Norvège, en Suède et en Finlande, avec cartes, profils altimétriques et niveaux de difficulté honnêtes.",
+  "trails.count": "{count, plural, =0 {Aucun sentier trouvé} one {# sentier trouvé} other {# sentiers trouvés}}",
+  "contact.success": "Merci, {name}. Nous répondons généralement sous deux jours."
+}
