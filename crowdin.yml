@@ -20,3 +20,7 @@ files:
     # to translators. (Comment this out on the first run to see what happens
     # without it — that's one of the deliberate breaks.)
     # content_segmentation: 0
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
