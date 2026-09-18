@@ -1,10 +1,20 @@
 {
-  "app.title": "Nordic Trails",
   "nav.home": "Accueil",
   "nav.about": "À propos",
-  "nav.contact": "Contact",
   "home.title": "Trouvez votre prochain sentier",
   "home.intro": "Des itinéraires de randonnée sélectionnés en Norvège, en Suède et en Finlande, avec cartes, profils altimétriques et niveaux de difficulté honnêtes.",
   "trails.count": "{count, plural, =0 {Aucun sentier trouvé} one {# sentier trouvé} other {# sentiers trouvés}}",
-  "contact.success": "Merci, {name}. Nous répondons généralement sous deux jours."
+  "trails.filter.difficulty": "Difficulté",
+  "trails.filter.easy": "Facile",
+  "trails.filter.moderate": "Modéré",
+  "trails.filter.hard": "Difficile",
+  "trails.distance": "{km} km",
+  "trails.duration": "{hours, plural, one {environ # heure} other {environ # heures}}",
+  "trails.card.viewMap": "Voir la carte",
+  "about.heading": "À propos de Nordic Trails",
+  "about.body": "Nous avons commencé en 2019, trois amis qui n'arrêtaient pas de se perdre. Chaque itinéraire a été parcouru par au moins l'un d'entre nous, par au moins une saison de mauvais temps.",
+  "contact.success": "Merci, {name}. Nous répondons généralement sous deux jours.",
+  "legal.terms": "En réservant vous acceptez nos conditions d'utilisation et nos conditions d'annulation.",
+  "legal.privacy": "Nous stockons votre nom et votre courriel uniquement pour gérer votre réservation, conformément à notre politique de confidentialité.",
+  "legal.age": "Vous devez avoir 18 ans ou plus pour faire une réservation."
 }
