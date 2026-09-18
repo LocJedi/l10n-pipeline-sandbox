@@ -37,5 +37,8 @@
   "error.404.back": "Back to home",
   "cookie.banner": "We use cookies only to remember your language choice.",
   "cookie.accept": "Fine",
-  "cookie.decline": "No thanks"
+  "cookie.decline": "No thanks",
+  "legal.terms": "By booking you accept our terms of service and cancellation policy.",
+  "legal.privacy": "We store your name and email only to manage your booking, in line with our privacy policy.",
+  "legal.age": "You must be 18 or older to make a booking."
 }
