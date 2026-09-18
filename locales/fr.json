@@ -13,5 +13,8 @@
   "trails.card.viewMap": "Voir la carte",
   "about.heading": "À propos de Nordic Trails",
   "about.body": "Nous avons commencé en 2019, trois amis qui n'arrêtaient pas de se perdre. Chaque itinéraire a été parcouru par au moins l'un d'entre nous, par au moins une saison de mauvais temps.",
-  "contact.success": "Merci, {name}. Nous répondons généralement sous deux jours."
+  "contact.success": "Merci, {name}. Nous répondons généralement sous deux jours.",
+  "legal.terms": "En réservant vous acceptez nos conditions d'utilisation et nos conditions d'annulation.",
+  "legal.privacy": "Nous stockons votre nom et votre courriel uniquement pour gérer votre réservation, conformément à notre politique de confidentialité.",
+  "legal.age": "Vous devez avoir 18 ans ou plus pour faire une réservation."
 }
